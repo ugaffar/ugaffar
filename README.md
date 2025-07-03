@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ugaffar
+# 👋 Hi, I'm Umer Gaffar
 
 I'm a professional **Flutter mobile app developer** with 5+ years of experience crafting high-performance, cross-platform mobile apps. I specialize in creating beautiful, scalable, and feature-rich applications for businesses and startups around the globe.
 
@@ -28,8 +28,4 @@ I'm a professional **Flutter mobile app developer** with 5+ years of experience 
 
 ---
 
-## 📬 Hire Me on Fiverr
 
-I help turn your app ideas into full-featured mobile products, from scratch to store-ready.
-
-👉 [Visit My Fiverr Profile](https://www.fiverr.com/ugaffar)
